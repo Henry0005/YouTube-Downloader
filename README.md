@@ -33,7 +33,7 @@ Baixe o FFmpeg [aqui](https://www.ffmpeg.org/download.html).
 Extraia o arquivo em um diretório de sua escolha.
 Adicione o diretório contendo o executável ffmpeg.exe ao PATH do sistema:
 
-    Exemplo de diretório: C:\ffmpeg\bin\.
+    Exemplo de diretório: C:\ffmpeg\bin\
 
 Verificação: Execute o comando abaixo no terminal para verificar se o FFmpeg foi configurado corretamente:
 
