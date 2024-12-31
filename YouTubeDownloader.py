@@ -5,6 +5,8 @@ from yt_dlp import YoutubeDL
 from colorama import Fore, init
 import subprocess
 
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 # Inicializa o colorama
 init(autoreset=True)
 
